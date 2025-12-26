@@ -1,3 +1,3 @@
 # Bad apple on a microcontroller
 
-[Watch the it in action](pictures/weeb.mp4)
+[Watch it in action](pictures/weeb.mp4)
